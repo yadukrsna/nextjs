@@ -1,0 +1,6 @@
+[00:00:01.658] Server  LOG      ✓ Ready in 1203ms
+[00:00:07.782] Server  LOG      ○ Compiling / ...
+[00:00:08.887] Server  WARN     ⚠ Cross origin request detected from 10.0.20.223 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:09.091] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
